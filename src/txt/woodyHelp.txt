@@ -1,0 +1,27 @@
+/////////////////////////Woody das lustige Wuerfelspiel//////////////////////////
+
+Am Anfang wird ein Spieler bestimmt, der die Rolle des Woody uebernimmt, 
+dieser muss dann immer trinken wenn eine 3 gewuerfelt wird oder die beiden 
+Augen der Wuerfel zusammen 3 ergeben.
+Wuerfelt der Woody selbst eine 3, so darf er sich einen beliebigen 
+Mitspieler aussuchen der dann ab sofort der Woody ist. 
+
+Zusaetzlich gelten fuer alle Spieler folgende Regeln:
+- Wurf ergibt 7:
+	- Der linke Nachbar des Werfers muss trinken.
+- Wurf ergibt 9:
+	- Der rechte Nachbar des Werfers muss trinken.
+- Wurf ergibt 10:
+	- Alle trinken.
+- Wurf ergibt einen Pasch:
+	- Der Werfer darf Schluecke in der Hoehe der Augenzahl eines Wuerfels 
+	  verteilen. Also wenn er zum Beispiel ein Pasch 4 wuerfelt, dann darf 
+	  er 4 Schluecke verteilen, eine Ausnahme ist ein Pasch 6, wo der Werfer 
+	  sogar 12 Schluecke verteilen darf. Die Schluecke koennen beliebig an 
+	  die Mitspielern verteilt werden (auch, dass jemand alle Schluecke 
+	  nehmen muss ist moeglich).
+
+Ein Spieler ist solange an der Reihe bis er eine Niete wuerfelt, also keine 
+Schluecke mehr verteilen darf. Dies ist beispielsweise der Fall wenn man 
+2 & 4 = 6 wuerfelt. Haette man aber 2 & 3 gewuerfelt, dann ginge die Runde 
+weiter.
